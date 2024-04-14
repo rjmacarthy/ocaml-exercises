@@ -1,5 +1,7 @@
-1337;; (* comment *)
-(1337: int);;
+(* comment *)
+
+1337;; (* int *)
+(1337: int);; (* check type of expression *)
 
 (* boolean operators *)
 true;;
